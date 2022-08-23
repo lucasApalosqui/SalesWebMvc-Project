@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Pmjl7pxkX0lKpgqRghgwYbu9rW3IKjSH+0sQLLP283zsDNuPdV/epne+281lzi2njVJgonVMpg+xYgzGan/EMA==",
+  "dgSpecHash": "q8ocY7bFTDyeCHG3KguyGRm7M/MqxKxuTvcFBEpdowTvCzJXirHB9fVMuMqKaX9EsJvuGcW7hU6PbhJaxS8bQA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Legale\\projects\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj",
   "expectedPackageFiles": [
@@ -72,7 +72,7 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore.nodeservices\\2.1.1\\microsoft.aspnetcore.nodeservices.2.1.1.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore.owin\\2.1.1\\microsoft.aspnetcore.owin.2.1.1.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore.razor\\2.1.1\\microsoft.aspnetcore.razor.2.1.1.nupkg.sha512",
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore.razor.design\\2.1.2\\microsoft.aspnetcore.razor.design.2.1.2.nupkg.sha512",
+    "C:\\Users\\Legale\\.nuget\\packages\\microsoft.aspnetcore.razor.design\\2.1.1\\microsoft.aspnetcore.razor.design.2.1.1.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore.razor.language\\2.1.1\\microsoft.aspnetcore.razor.language.2.1.1.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore.razor.runtime\\2.1.1\\microsoft.aspnetcore.razor.runtime.2.1.1.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore.responsecaching\\2.1.1\\microsoft.aspnetcore.responsecaching.2.1.1.nupkg.sha512",
